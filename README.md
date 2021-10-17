@@ -33,7 +33,7 @@ Python 3.7 (installed with updated pip)
  4. pip install --upgrade tensorflow
  5. After all the pre-requisites are installed, open Jupyter Notebook and run the file.
  
- Orignal group ratings are in orig_grat.csv file.
+ Original group ratings are in orig_grat.csv file.
  
  Predicted group ratings are in pred_grat.csv file
  
